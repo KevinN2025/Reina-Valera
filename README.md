@@ -42,6 +42,11 @@ kjv can be built by cloning the repository and then running make:
     cd rv 
     sudo make install
 
+## Screenshot
+
+<img width="1279" height="1004" alt="image" src="https://github.com/user-attachments/assets/a30ba3b2-4560-4d94-9091-8f2e45680a24" />
+
+
 ## License
 
 Public domain
