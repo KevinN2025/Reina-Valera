@@ -2,7 +2,7 @@
 
 Read the Reina-Valeria spanish bible on your terminal.
 
-Forked from [https://github.com/bontibon/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Apocrypha added.
+Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmithxyz/kjv.git) but with the Apocrypha added.
 
 
 ## Usage
