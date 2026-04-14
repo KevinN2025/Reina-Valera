@@ -7,7 +7,7 @@ Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmi
 
 ## Usage
 
-    usage: ./kjv [flags] [reference...]
+    usage: ./rv [flags] [reference...]
 
       -l      list books
       -W      no line wrap
@@ -36,7 +36,7 @@ Forked from [https://github.com/LukeSmithxyz/kjv.git](https://github.com/LukeSmi
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+rv can be built by cloning the repository and then running make:
 
     git clone https://github.com/KevinN2025/rv.git
     cd rv 
