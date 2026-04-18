@@ -1,4 +1,4 @@
-# rv
+# Reina-Valera(rv)
 
 Read the Reina-Valeria spanish bible on your terminal.
 
